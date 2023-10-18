@@ -199,6 +199,12 @@
         font-size: var(--font-size-medium);
         font-weight: var(--font-weight-medium);
         margin-top: var(--spacing-medium);
+        cursor: pointer;
+      }
+
+      .button:hover {
+        background-color: var(--secondary-color);
+        --secondary-color:  hsl(71, 86%, 39%);
       }
   
   
