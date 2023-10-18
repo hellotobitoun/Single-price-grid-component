@@ -65,8 +65,9 @@
     /* gap: 1.5rem; */
   
     
-    padding-block: 2rem;
-    width: min(80%, 70rem);
+    padding-block: 10rem;
+    max-width: 650px;
+    /* width: min(60%, 70rem); */
     margin-inline: auto;
   }
   
