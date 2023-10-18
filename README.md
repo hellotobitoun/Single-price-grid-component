@@ -10,7 +10,8 @@ I believe the error from the previous code was that I didn't assign the second a
 
 Cleaning up my code the way I did and properly organizing each class into it's respective group helped make my process a lot better in the updated code. 
 
-Live site: 
-Code Pen: 
+Live site: https://single-price-grid-component-delta-six.vercel.app/
+Code Pen: https://codepen.io/hellotobitoun/pen/OJreKRB
+
 
 Author: Oluwatobi Adetoun
